@@ -14,8 +14,6 @@ Example:
 }
 ```
 
-https://mycrypto.com/sign-and-verify-message/sign
-
 Charities this time round should be well known charities, all funds will be distributed equally across all of them, so we should aim to have the same number of charities per country.
 
 # Multisig requests / maintainer
