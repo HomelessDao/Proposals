@@ -1,0 +1,6 @@
+{
+  "address": "0x111f530216fbb0377b4bdd4d303a465a1090d09d",
+  "msg": "My charity of choice is Shelter \"https://england.shelter.org.uk/\". ",
+  "sig": "0x340e799d3f5ec89d0ce60a2bb3650425e75d50ecc4a43816ed509039a4bcf884441e30a279ac79fad1580526bf41eed79808eb8387f72a2154d5ab679dd639141c",
+  "version": "2"
+},
