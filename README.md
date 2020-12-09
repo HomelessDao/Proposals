@@ -1,4 +1,4 @@
-# Proposals
+# Homeless Improvement Proposals
 Simple repository to start tracking to proposals, voting before voting, etc.
 Have you got any thought.. just raise an issue.
 
