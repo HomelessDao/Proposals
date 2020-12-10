@@ -3,7 +3,10 @@ Simple repository to start tracking to proposals, voting before voting, etc.
 Have you got any thought.. just raise an issue.
 
 # Charities
-Just raise an issue (or make a pull request on Charities.txt) with the charity name for your country, with a signed message with your donation. Just head to https://mycrypto.com/sign-and-verify-message/sign to sign the message.
+Just go here and make a comment: https://github.com/HomelessDao/Proposals/issues/9 with the charity name for your country or preference.
+
+
+If yo have made a donation, you can create a signed message with the address of your donation. Just head to https://mycrypto.com/sign-and-verify-message/sign to sign the message.
 
 Example:
 ```
