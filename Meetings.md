@@ -11,4 +11,10 @@ Where Google meet https://meet.google.com/tzi-bbmd-qxg
 ### What we want from homeless
 ### The first stepts and priorities
 ### What it has been achieved, the problems
++ Website
++ Gitcoin Grant update (5 Pan, 50 Dai)
++ Donations update
++ Multisig
++ ERC20 token
++ What charities
 ### The future vision and working groups
