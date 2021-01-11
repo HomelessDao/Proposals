@@ -1,5 +1,28 @@
 # Weekly Meetings
 
+
+## Meeting 2021-01-14 - Time (16:00-17:00 London, 8:00 am PST, 11:00 am EST, MYT 12:00 midnight, France 17:00, Portugal 16:00, India Delhi 9:30)
+
+## Google meet:
+
+https://meet.google.com/rfq-spey-nni
+
+## Agenda
+
+### Current steps and priorities
+
+### What it has been achieved, the problems
++ Gitcoin Grant update
++ Donations update
++ Amazon, invoices, etc
++ Multisig (Walkthrough adding new members)
++ ERC20 token
++ What charities / Unicef update
+### Working groups discussion
+
+
+# Previous meetings
+
 ## Meeting 2020-12-17 - Time (16:00-17:00 London, 8:00 am PST, 11:00 am EST, MYT 12:00 midnight, France 17:00, Portugal 16:00, India Delhi 9:30)
 
 Where Google meet https://meet.google.com/tzi-bbmd-qxg
@@ -18,3 +41,8 @@ Where Google meet https://meet.google.com/tzi-bbmd-qxg
 + ERC20 token
 + What charities
 ### The future vision and working groups
+
+
+## Meeting 2020-12-17 - Time (16:00-17:00 London, 8:00 am PST, 11:00 am EST, MYT 12:00 midnight, France 17:00, Portugal 16:00, India Delhi 9:30)
+
+Where Google meet https://meet.google.com/tzi-bbmd-qxg
