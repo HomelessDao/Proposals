@@ -8,14 +8,14 @@ meet.google.com/uii-xtin-tmf
 
 ------------------------------
 
+## Next meeting
+### Meeting 2021-01-21 - Time (16:00-17:00 London, 8:00 am PST, 11:00 am EST, MYT 12:00 midnight, France 17:00, Portugal 16:00, India Delhi 9:30)
 
-## Meeting 2021-01-21 - Time (16:00-17:00 London, 8:00 am PST, 11:00 am EST, MYT 12:00 midnight, France 17:00, Portugal 16:00, India Delhi 9:30)
-
-## Google meet:
+### Google meet:
 
 meet.google.com/uii-xtin-tmf
 
-## Agenda
+### Agenda
 
 ### What it has been achieved, the problems
 + Multisig (Walkthrough adding new members)
